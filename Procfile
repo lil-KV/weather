@@ -1,1 +1,1 @@
-web: gunicorn weather2.0.wsgi
+web: python bot.py
