@@ -1,1 +1,1 @@
-web: gunicorn bot:app --max-requests 1200
+web: gunicorn bot:weather2try --max-requests 1200
