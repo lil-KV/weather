@@ -1,1 +1,1 @@
-web: python bot.py
+web: gunicorn bot:app --max-requests 1200
